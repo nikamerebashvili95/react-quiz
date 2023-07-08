@@ -18,9 +18,9 @@ React based project: React-Quiz. Project made by Fake API, If you want to see th
 
 ### Screenshots
 
-![](./src/assets/screen-img/img-1.png)
-![](./src/assets/screen-img/img-2.png)
-![](./src/assets/screen-img/img-3.png)
+![](./src/assets/screen-img/img-1.jpg)
+![](./src/assets/screen-img/img-2.jpg)
+![](./src/assets/screen-img/img-3.jpg)
 
 
 ### Link
