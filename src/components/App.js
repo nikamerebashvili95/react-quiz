@@ -88,7 +88,7 @@ export default function App() {
     0
   );
   useEffect(function () {
-    fetch("http://localhost:9000/questions")
+    fetch("https://nikamerebashvili95.github.io/jsonapi/react_quiz.json")
       .then((res) => res.json())
       .then((data) => dispatch({ type: "dateReceived", payload: data }))
       .catch((err) => dispatch({ type: "dataFailed" }));
