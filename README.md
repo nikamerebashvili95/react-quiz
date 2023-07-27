@@ -38,5 +38,5 @@ React based project: React-Quiz. Project made by Fake API.
 
 - GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
 - LinkedIn - [Nika Merebashvili](https://www.linkedin.com/in/nikamerebashvili)
-- Portfolio - [https://nikamerebashvili95.github.io/portfolio-website/]
+- Portfolio - [Portfolio](https://nikamerebashvili95.github.io/portfolio-website/)
 
