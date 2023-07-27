@@ -14,7 +14,7 @@
 
 ### Review
 
-React based project: React-Quiz. Project made by Fake API, If you want to see the project, you have to start the server first.
+React based project: React-Quiz. Project made by Fake API.
 
 ### Screenshots
 
@@ -32,9 +32,11 @@ React based project: React-Quiz. Project made by Fake API, If you want to see th
 
 - React
 - Fake API
+- Redux
 
 ## Author
 
 - GitHub - [Nika Merebashvili](https://github.com/nikamerebashvili95)
 - LinkedIn - [Nika Merebashvili](https://www.linkedin.com/in/nikamerebashvili)
+- Portfolio - [https://nikamerebashvili95.github.io/portfolio-website/]
 
